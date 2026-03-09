@@ -1,0 +1,19 @@
+{
+  "groups": ["A1", "A2", "A3"],
+
+  "teachers": [
+    {"name": "Ivanov", "subjects": ["Math"]},
+    {"name": "Petrov", "subjects": ["Physics"]},
+    {"name": "Sidorov", "subjects": ["English"]}
+  ],
+
+  "rooms": ["101", "102", "103"],
+
+  "classes": [
+    {"group": "A1", "subject": "Math", "teacher": "Ivanov", "hours": 3},
+    {"group": "A1", "subject": "Physics", "teacher": "Petrov", "hours": 2},
+    {"group": "A2", "subject": "Math", "teacher": "Ivanov", "hours": 2},
+    {"group": "A2", "subject": "English", "teacher": "Sidorov", "hours": 3},
+    {"group": "A3", "subject": "Physics", "teacher": "Petrov", "hours": 3}
+  ]
+}

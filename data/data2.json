@@ -1,0 +1,9 @@
+{
+ "groups":["C1","C2"],
+ "rooms":["301","302","303"],
+ "classes":[
+  {"group":"C1","subject":"Math","teacher":"Ivanov","hours":5},
+  {"group":"C1","subject":"Physics","teacher":"Petrov","hours":3},
+  {"group":"C2","subject":"English","teacher":"Sidorov","hours":4}
+ ]
+}
